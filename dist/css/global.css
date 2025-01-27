@@ -3,4 +3,8 @@
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
-}/*# sourceMappingURL=.global.css.map */
+}
+
+.container {
+  max-width: 1160px;
+}/*# sourceMappingURL=global.css.map */
